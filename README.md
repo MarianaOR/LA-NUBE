@@ -16,3 +16,32 @@ Como su propio nombre indica, este tipo de nube es fruto de una combinación de 
 
 ### Nube Multicloud
 Se trata de una opción que está siendo adoptada por muchas entidades y que consiste en varias nubes entre las que se desplazan los distintos servicios y que pueden trabajar simultáneamente. Con multicloud los clientes se blindan ante posibles interrupciones del servicio.
+
+
+## Azure
+Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft.
+- **La plataforma Azure** está compuesta por más de 200 productos y servicios en la nube diseñados para ayudarle a dar vida a nuevas soluciones que permitan resolver las dificultades actuales y crear el futuro. Cree, ejecute y administre aplicaciones en varias nubes, en el entorno local y en el perímetro, con las herramientas y los marcos que prefiera.
+
+### Productos de Azure
+- **Administración y Gobernanza** Simplifique, automatice y optimice la administración y el cumplimiento normativo de sus recursos en la nube
+- **Almacenamiento** Obtenga almacenamiento en la nube seguro y de escalabilidad masiva para los datos, las aplicaciones y las cargas de trabajo
+- **Análisis** Recopile, almacene, procese, analice y visualice datos de cualquier variedad, volumen o velocidad
+- **Bases de datos** Apoye un crecimiento rápido e innove más rápido con servicios de bases de datos seguros, de nivel empresarial y completamente administrados
+- **Blockchain** Cree y administre aplicaciones basadas en la cadena de bloques con un conjunto de herramientas integradas
+- **Contenedores** Desarrolle y administre sus aplicaciones de contenedor más rápido con herramientas integradas
+- **DevOps** Entregue innovación más rápidamente con herramientas simples y confiables de entrega continua
+- **Herramientas para desarrolladores** Cree, administre y entregue continuamente aplicaciones en la nube con cualquier plataforma o lenguaje
+- **Hybrid + Multicloud** Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads.
+- **IA y Machine Learning** Cree la próxima generación de aplicaciones usando funcionalidades de inteligencia artificial para cualquier desarrollador y escenario
+- **Identidad** Administre las identidades de usuario y el acceso para protegerse contra amenazas avanzadas en todos los dispositivos, los datos, las aplicaciones y la infraestructura
+- **Integración** Integre sin problemas aplicaciones, datos y procesos basados en la nube y locales en su empresa
+- **Internet de las cosas** Integre IoT en cualquier dispositivo y plataforma, sin cambiar de infraestructura
+- **Migración** Simplifique y acelere la migración a la nube con guías, herramientas y recursos
+- **Movilidad** Compile e implemente aplicaciones nativas y multiplataforma en cualquier dispositivo móvil
+- **Multimedia** Entregue contenido de vídeo de alta calidad donde quiera, cuando quiera y en el dispositivo que quiera
+- **Proceso** Acceda a funcionalidad de proceso y escalado a petición en la nube, y pague solo por los recursos que use
+- **Realidad mixta** Combine el mundo físico y el mundo digital para crear experiencias de colaboración inmersivas
+- **Redes** Conecte las infraestructuras y los servicios locales con los de la nube para ofrecer a los clientes y usuarios la mejor experiencia posible
+- **Seguridad** Proteja su empresa de amenazas avanzadas en todas las cargas de trabajo en la nube híbrida
+- **Web** Compile, implemente y escale aplicaciones web eficaces con rapidez y eficiencia
+- **Windows Virtual Desktop** La mejor experiencia de escritorio virtual, entregada en Azure
