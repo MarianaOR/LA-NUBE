@@ -3,6 +3,7 @@ Reto de la semana 1
 
 ## ¿Qué es la nube?
 La Nube es una red de servidores remotos de todo el mundo que están conectados para funcionar como un único ecosistema. Estos servidores almacenan y administran datos a los que se puede acceder a ellos en línea desde cualquier dispositivo conectado a Internet. Existen 4 tipos de nube: Pública, Privada, Híbrida y Comunitaria (Multicloud).
+![488074](https://user-images.githubusercontent.com/83665531/117221457-ed3d0700-adce-11eb-8412-3191737ea76b.jpg)
 
 ### Nube Pública
 Este tipo de nube ofrece sus servicios a cualquier usuario de internet. Sus servidores y almacenamiento pertenecen al proveedor del servicio y el cliente sólo paga generalmente por el espacio de almacenamiento o el ancho de banda que consumen.
