@@ -18,8 +18,10 @@ Como su propio nombre indica, este tipo de nube es fruto de una combinación de 
 Se trata de una opción que está siendo adoptada por muchas entidades y que consiste en varias nubes entre las que se desplazan los distintos servicios y que pueden trabajar simultáneamente. Con multicloud los clientes se blindan ante posibles interrupciones del servicio.
 
 
-## Azure
+## Azure  
 Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft.
+![1__HYOZExV1wV2f0OrfZ9YcA](https://user-images.githubusercontent.com/83665531/117222967-48242d80-add2-11eb-920a-4bfac00fe982.png)
+
 - **La plataforma Azure** está compuesta por más de 200 productos y servicios en la nube diseñados para ayudarle a dar vida a nuevas soluciones que permitan resolver las dificultades actuales y crear el futuro. Cree, ejecute y administre aplicaciones en varias nubes, en el entorno local y en el perímetro, con las herramientas y los marcos que prefiera.
 
 ### Productos de Azure
