@@ -50,3 +50,4 @@ Azure es una nube pública de pago por uso que te permite compilar, implementar 
 
 ## Azure Fundamentals
 Azure Fundamentals es un curso completo, diseñado por expertos, destinado tanto IT Pros como Desarrolladores, en el que podrás aprender Azure desde cero hasta alcanzar un nivel intermedio.
+![azure-certif-path](https://user-images.githubusercontent.com/83665531/117341797-2bd2d000-ae68-11eb-8f03-79bf1b340052.jpg)
