@@ -47,3 +47,6 @@ Azure es una nube pública de pago por uso que te permite compilar, implementar 
 - **Seguridad** Proteja su empresa de amenazas avanzadas en todas las cargas de trabajo en la nube híbrida
 - **Web** Compile, implemente y escale aplicaciones web eficaces con rapidez y eficiencia
 - **Windows Virtual Desktop** La mejor experiencia de escritorio virtual, entregada en Azure
+
+## Azure Fundamentals
+Azure Fundamentals es un curso completo, diseñado por expertos, destinado tanto IT Pros como Desarrolladores, en el que podrás aprender Azure desde cero hasta alcanzar un nivel intermedio.
